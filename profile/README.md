@@ -1,12 +1,4 @@
-## Hi there 👋
+![PinguGames](https://cdn.discordapp.com/attachments/986025110832037888/1113236738752643163/21A598F3-7E3C-4BDC-9CA6-988B2FE617E2.png)
+## What is PinguGames
+PinguGames is a German Minecraft Minigames Network with games like BedWars, MLGRush, FFA and so on. This GitHub Organisation will be used for our Language System mostly, where you can create a Pull Request to help us translate our Network to other Languagen more easily!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
